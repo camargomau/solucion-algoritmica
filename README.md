@@ -1,5 +1,6 @@
 # Solución Algorítmica de Problemas
 
-En este repositorio guardo los programas que hice durante el curso de Solución Algorítmica de Problemas de [Matemáticas Aplicadas y Computación](https://www.acatlan.unam.mx/index.php?id=31).
+This repository is where I store all the programs that I coded during the Solución Algorítmica de Problemas course that's part of [Matemáticas Aplicadas y Computación](https://www.acatlan.unam.mx/index.php?id=31).
 
-Estos programas se escribieron durante la segunda mitad de 2021.
+These programs were written during the second half of 2021. 
+
